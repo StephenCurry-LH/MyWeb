@@ -14,11 +14,6 @@
             position: relative;
             top: 100px;
         }
-
-        #stop_button {
-            position: relative;
-            top: 150px;
-        }
     </style>
 </head>
 <body>
@@ -37,7 +32,7 @@
 
     function readFile(file) {
         var reader = new FileReader();
-        reader.onload = function() {
+        reader.onload = function () {
             name_list = this.result.split('\n');
         };
         reader.readAsText(file);
