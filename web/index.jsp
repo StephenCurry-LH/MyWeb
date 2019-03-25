@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>假的抽奖系统</title>
+    <title>找抽</title>
 </head>
 
 <body>
