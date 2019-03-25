@@ -12,10 +12,15 @@
 </head>
 
 <body>
-<div align="center">
-    <img src="image/toppic.jpg" alt="抽奖上方图片">
+<div>
+    <h1 id="webname" class="webname"><span style="color: #076ce0; ">找抽</span><span
+            style="color: #cccccc; ">通用抽奖平台</span>
+        <a href="Login.jsp">登陆</a>
+        <a href="Resiger.jsp">注册</a></h1>
 </div>
-
-<a href="rolling_name.jsp">滚动名字</a>
+<div>
+    <div><a href="StandAlone.jsp">线下模式</a></div>
+    <div><a href="OnLine.jsp">线上模式</a></div>
+</div>
 </body>
 </html>
