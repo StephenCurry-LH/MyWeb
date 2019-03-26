@@ -8,10 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>找抽 - 登陆</title>
+    <title>找抽 - 登陆或注册</title>
     <link rel="stylesheet" href="css/auth.css">
 </head>
 <body>
+<a href="afterlogin.jsp">跳过</a>
 <div class="lowin lowin-blue">
     <div class="lowin-brand">
         <img src="images/kodinger.jpg" alt="logo">

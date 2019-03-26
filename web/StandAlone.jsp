@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>找抽 - 线上模式</title>
+    <title>找抽 - 线下模式</title>
 </head>
 <body>
 
