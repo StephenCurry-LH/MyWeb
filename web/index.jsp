@@ -17,8 +17,7 @@
 <div class="header">
     <div class="Logo">
         <h1><span style="color: #076ce0; ">找抽</span></h1></div>
-    <div class="header_right"><a href="Login.jsp">登陆</a>
-        <a href="Resiger.jsp">注册</a></div>
+    <div class="header_right"><a href="LoginRegister.jsp">登陆或注册</a></div>
 </div>
 <div class="banner" id="b04">
     <ul>
