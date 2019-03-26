@@ -10,7 +10,7 @@
 <head>
     <title>找抽</title>
     <%--<link rel="stylesheet" href="css/main.css" />--%>
-    <link rel="stylesheet" href="css/test.css">
+    <link rel="stylesheet" href="css/index.css">
 </head>
 
 <body>
@@ -22,11 +22,11 @@
 </div>
 <div class="banner" id="b04">
     <ul>
-        <li class="slider-item"><a href="#"><img src="img/01.jpg" alt="1" width="640" height="480" ><span class="slider-title"><em>我们的优势1</em></span></a></li>
-        <li class="slider-item"><a href="#"><img src="img/02.jpg" alt="1" width="640" height="480" ><span class="slider-title"><em>我们的优势2</em></span></a></li>
-        <li class="slider-item"><a href="#"><img src="img/03.jpg" alt="1" width="640" height="480" ><span class="slider-title"><em>我们的优势3</em></span></a></li>
-        <li class="slider-item"><a href="#"><img src="img/04.jpg" alt="1" width="640" height="480" ><span class="slider-title"><em>我们的优势4</em></span></a></li>
-        <li class="slider-item"><a href="#"><img src="img/05.jpg" alt="1" width="640" height="480" ><span class="slider-title"><em>我们的优势4</em></span></a></li>
+        <li class="slider-item"><a href="#"><img src="images/01.jpg" alt="1" width="640" height="480" ><span class="slider-title"><em>我们的优势1</em></span></a></li>
+        <li class="slider-item"><a href="#"><img src="images/02.jpg" alt="1" width="640" height="480" ><span class="slider-title"><em>我们的优势2</em></span></a></li>
+        <li class="slider-item"><a href="#"><img src="images/03.jpg" alt="1" width="640" height="480" ><span class="slider-title"><em>我们的优势3</em></span></a></li>
+        <li class="slider-item"><a href="#"><img src="images/04.jpg" alt="1" width="640" height="480" ><span class="slider-title"><em>我们的优势4</em></span></a></li>
+        <li class="slider-item"><a href="#"><img src="images/05.jpg" alt="1" width="640" height="480" ><span class="slider-title"><em>我们的优势4</em></span></a></li>
     </ul>
     <div class="progress"></div>
     <a href="javascript:void(0);" class="unslider-arrow04 prev"><img class="arrow" id="al" src="img/arrowl.png" alt="prev" width="20" height="35"></a>

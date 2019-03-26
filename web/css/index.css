@@ -132,7 +132,7 @@ address, cite, dfn, em, var {
 
 .footnote{
     position: relative;
-    top: 100px;
+    top: 150px;
     background: aqua;
     height: 50px;
 }
