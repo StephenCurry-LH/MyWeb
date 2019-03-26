@@ -11,6 +11,14 @@
     <title>找抽 - 控制台</title>
 </head>
 <body>
-
+<p>您当前的活动有： 暂无</p>
+<div>
+    <div>
+        <a href="OnLine.jsp">线上模式</a>
+    </div>
+    <div>
+        <a href="StandAlone.jsp">线下模式</a>
+    </div>
+</div>
 </body>
 </html>
