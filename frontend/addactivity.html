@@ -1,0 +1,65 @@
+
+<html>
+
+<head>
+<title>Title</title>
+</head>
+
+
+<style type="text/css">  
+
+.show{
+	width: 1200px;
+	height:300px;
+	margin: 0;
+	padding:100px;
+	border:10px solid black;
+	margin-left:40px;
+}  
+
+
+
+</style>
+
+
+<body background="myphoto/8b30add8737b9093a6bb8dabb1d2cb60.jpg"
+style=" background-repeat:no-repeat ;
+background-size:100% 100%; 
+background-attachment:fixed;" >
+
+<div>
+    <form method="post" action="../Console.jsp">
+        <label>抽奖动画
+            <select name="pattern">
+                <option value="online">人名滚动</option>
+                <option value="online">砸金蛋</option>
+                <option value="online">砸地鼠</option>
+            </select>
+            <input type="submit" value="生成">
+        </label>
+    </form>
+</div>
+
+
+
+<div class="show">预览</div>
+
+	<marquee behavior="scroll" scrollamount="10" scrolldelay="0" direction= "right" width="1600" height="400"> 
+
+    
+   <img src="myphoto/apple.png" width="100" height="100" /> 
+   <img src="myphoto/atom.png" width="100" height="100" />   
+   <img src="myphoto/blackberry.png" width="100" height="100" />    
+   <img src="myphoto/dropbox.png" width="100" height="100" />  
+   <img src="myphoto/envato.png" width="100" height="100" /> 
+   <img src="myphoto/firefox.png" width="100" height="100" /> 
+   <img src="myphoto/joomla.png" width="100" height="100" /> 
+   <img src="myphoto/magento.png" width="100" height="100" /> 
+   <img src="myphoto/mozilla.png" width="100" height="100" /> 
+   
+ </marquee> 
+
+
+
+</body>
+</html>
